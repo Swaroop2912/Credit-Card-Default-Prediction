@@ -19,5 +19,7 @@ Train a machine learning model to predict the likelihood of a credit card client
 AWS Tools to use:
 
 Amazon S3:Store the dataset securely.
+
 Amazon SageMaker: Data Preprocessing,Model Training, Model Evaluation, Model Deployment
+
 Amazon QuickSight: Visualize model performance, feature importance, and potentially identify trends or patterns in defaults.
