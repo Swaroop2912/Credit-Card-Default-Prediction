@@ -14,8 +14,8 @@ This paper covers Credit card fraud refers to the physical loss of credit card o
 
 
 Data Sources:
-The primary data source for this project can be found here:
-http://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+The primary data source for this project can be found here: \
+http://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients \
 This data set consists of 30,000 entries each of which has 24 features.
 
 Domain-specific Challenges:
