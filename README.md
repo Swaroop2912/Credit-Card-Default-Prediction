@@ -1,20 +1,26 @@
 # Credit-Card-Default-Prediction
 
+Project Scope 
+The goal of this project is to make a user-interactive application that will allow a user to input information regarding their credit usage and payments and predict if they are likely to default on their payments in the future.
 
-Project Domain: 
-Financial Risk Assessment - By predicting potential defaults, financial institutions can take proactive measures, thereby reducing losses and better managing risks.
+Domain:
+Financial Risk assessment
 
-Datasets:
-Default of Credit Card Clients Dataset from UCI:
-Link to UCI Default of Credit Card Clients DatasetLinks to an external site.
-Credit Card Fraud Detection Dataset 2023
-https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+Literature Review:
+SMOTE technique
+https://ieeexplore.ieee.org/abstract/document/8717766
 
-Problem or Opportunity Addressed:
-By identifying clients who are likely to default on their credit card payments, banks and financial institutions can take preemptive actions, such as offering financial counseling, restructuring debt, or limiting further credit extension, thus potentially reducing the financial loss.
 
-Scope:
-Train a machine learning model to predict the likelihood of a credit card client defaulting in the next month based on their historical data.
+Data Sources:
+The primary data source for this project can be found here:
+http://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+This data set consists of 30,000 entries each of which has 24 features.
+
+Domain-specific Challenges:
+In a real-world scenario models regarding Banking and Finance have specific challenges due to strict regulations put in place by governments. Primarily these regulations are in regards to building models that do not have unfair biases towards any groups. Due to the nature of this project however and the model not being used in a production environment there are not any specific challenges that need to be addressed.
+
+KPI's:
+KPIs to be used are accuracy, recall, as well as MSE. Additionally, ease of use for the end user is a consideration in this project.
 
 AWS Tools to use:
 
