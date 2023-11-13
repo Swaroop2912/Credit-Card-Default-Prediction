@@ -1,9 +1,11 @@
 # Credit-Card-Default-Prediction
 
 
-Project Domain: Financial Risk Assessment - By predicting potential defaults, financial institutions can take proactive measures, thereby reducing losses and better managing risks.
+Project Domain: 
+Financial Risk Assessment - By predicting potential defaults, financial institutions can take proactive measures, thereby reducing losses and better managing risks.
 
 Datasets:
+
 Default of Credit Card Clients Dataset from UCI:
 Link to UCI Default of Credit Card Clients DatasetLinks to an external site.
 Credit Card Fraud Detection Dataset 2023
@@ -14,6 +16,7 @@ Problem or Opportunity Addressed: By identifying clients who are likely to defau
 Scope: Train a machine learning model to predict the likelihood of a credit card client defaulting in the next month based on their historical data.
 
 AWS Tools to use:
+
 Amazon S3: Store the dataset securely.
 Amazon SageMaker: Data Preprocessing,Model Training, Model Evaluation, Model Deployment
 Amazon QuickSight: Visualize model performance, feature importance, and potentially identify trends or patterns in defaults.
