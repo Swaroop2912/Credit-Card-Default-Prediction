@@ -7,8 +7,10 @@ Domain:
 Financial Risk assessment
 
 Literature Review:
-SMOTE technique
-https://ieeexplore.ieee.org/abstract/document/8717766
+SMOTE technique\
+https://ieeexplore.ieee.org/abstract/document/8717766\
+This paper covers Credit card fraud refers to the physical loss of credit card or loss of sensitive credit card information. Many machine-learning algorithms can be used for detection. This research shows several algorithms that can be used for classifying transactions as fraud or genuine one. Credit Card Fraud Detection dataset was used in the research. Because the dataset was highly imbalanced, SMOTE technique was used for oversampling. Further, feature selection was performed and dataset was split into two parts, training data and test data. The algorithms used in the experiment were Logistic Regression, Random Forest, Naive Bayes and Multilayer Perceptron. Results show that each algorithm can be used for credit card fraud detection with high accuracy. Proposed model can be used for detection of other irregularities.
+
 
 
 Data Sources:
