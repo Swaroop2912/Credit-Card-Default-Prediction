@@ -10,6 +10,7 @@
    6. [KPI's](#KPI's)
    7. [AWS Tools to use](#AWS-Tools-to-use)
 2. [Pipeline](#pipeline)
+3. [Deliverable 2](Deliverable-2.pdf)
 
 
 
