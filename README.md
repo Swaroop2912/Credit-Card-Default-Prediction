@@ -12,6 +12,7 @@
 2. [Pipeline](#pipeline)
 3. [Deliverable 2](Deliverable-2.pdf)
 4. [Deliverable 3](Deliverable-3.pdf)
+5. [Deliverable 4](Deliverable-4.pdf)
 
 
 
