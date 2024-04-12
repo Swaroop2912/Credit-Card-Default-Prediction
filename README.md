@@ -45,3 +45,14 @@ Amazon S3:Store the dataset securely.
 
 ## Pipeline
 ![Final Project AWS Pipeline](https://github.com/Swaroop2912/Credit-Card-Default-Prediction/assets/59443423/2d3aafbe-d2e3-4163-8555-e5e5fb89ac6c)
+
+
+
+The project's outcomes demonstrate commendable performance metrics:
+
+High Accuracy: The model attained an accuracy of 81.23%, signifying its robust capability to correctly classify instances. This high level of accuracy suggests that the model is reliable for practical applications where correct classifications are critical.
+
+Precision and Error Minimization: The model achieved a precision score of 0.6596 and exhibited a Mean Squared Error (MSE) of 0.1412. These metrics illustrate the model's proficiency in accurately identifying positive instances while minimizing prediction errors. This characteristic is particularly valuable in contexts where it is crucial to limit the number of false positives.
+
+Effective Discrimination Ability: The model's ability to differentiate between positive and negative instances is highlighted by the Receiver Operating Characteristic (ROC) curve and an Area Under the Curve (AUC) score of 0.77. These scores indicate that the model performs well across various probability thresholds, making it effective for diverse operational scenarios.
+
